@@ -4,7 +4,7 @@ Welcome to **React Step Wizard** – a fun and interactive React app that walks 
 
 ## 🚀 Demo
 
-![image](https://github.com/user-attachments/assets/9f17ceff-d3ed-425c-a5e9-fba9678d1dc8)
+![image](https://github.com/user-attachments/assets/f2d97e7a-167c-4340-99b5-3eaa2bc4bfa7)
 
 ---
 
